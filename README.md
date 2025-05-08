@@ -22,8 +22,8 @@ This p5.js technology uses `atan2()` to calculate the angle between the eye and 
 
 **Screenshots:**
 
-![Eyes Tracking Up and Down](assets/Moving Eyes.jpg)  
-*Eyes track the mouse upward and downward*
+![Moving Eyes by mouse](assets/eyes.jpg)  
+*Eyes tracking upward and downward*
 
  **Code Reference:**  
 [https://p5js.org/examples/angles-and-motion-aim/](https://p5js.org/examples/angles-and-motion-aim/)
