@@ -8,10 +8,10 @@ Inspired by Mr. Bean’s exaggerated and expressive eye movements, I chose two c
 
 **Images:**
 
-![Normal Eye Expression – Mr. Bean](./normal.jpg)  
+![Normal Eye Expression – Mr. Bean](assets/normal.jpg)  
 *Calm eye position showing neutral attention*
 
-![Abnormal Eye Expression – Mr. Bean](./abnormal.jpg)  
+![Abnormal Eye Expression – Mr. Bean](assets/abnormal.jpg)  
 *Extreme distortion showing humorous, chaotic focus*
 
 ---
@@ -22,10 +22,10 @@ This p5.js technology uses `atan2()` to calculate the angle between the eye and 
 
 **Screenshots:**
 
-![Eyes Tracking Up](./up.jpg)  
+![Eyes Tracking Up](assets/up.jpg)  
 *Eyes track the mouse upward – calm but focused*
 
-![Eyes Tracking Down](./down.jpg)  
+![Eyes Tracking Down](assets/down.jpg)  
 *Eyes track the mouse downward – active and reactive*
 
  **Code Reference:**  
