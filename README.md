@@ -20,7 +20,7 @@ Inspired by Mr. Bean’s exaggerated and expressive eye movements, I chose two c
 
 This p5.js technology uses `atan2()` to calculate the angle between the eye and the cursor. It will turn the pupil towards the mouse in real time, allowing the eyes to ‘follow’ the user. This dynamic effect can make monotonous images more layered and can enhance the sense of interaction between the image and the user, making my projects more interesting.
 
-**Screenshots:**
+**Screenshot:**
 
 ![Moving Eyes by mouse](assets/eyes.jpg)  
 *Eyes tracking upward and downward*
