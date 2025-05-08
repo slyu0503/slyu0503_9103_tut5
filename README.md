@@ -4,7 +4,7 @@
 
 ## Part 1: Imaging Technique Inspiration – Mr. Bean's Expressive Eyes
 
-I Inspired by Mr. Bean’s eyes movements, I chose two contrasting images to explore how eye motion conveys attention and emotion. One image shows calm, symmetric eye contact; the other shows chaotic, cross-eyed confusion. This clip inspired, I was originally only focusing on flat shapes, the eyes made me think that pictures can be three dimensional, there are artworks made up of circles stacked on top of each other, analogous to an eye, with the centremost circle rotating like a pupil, giving the whole piece a more layered look.
+Inspired by Mr. Bean’s eyes movements, I chose two contrasting images to explore how eye motion conveys attention and emotion. One image shows calm, symmetric eye contact; the other shows chaotic, cross-eyed confusion. This clip inspired me, I was originally focusing only on flat shapes, the eyes made me think that pictures can be three dimensional, some examples of artwork are made of circles stacked on top of each other, similar to an eye, with the centre most circle spinning around like a pupil making the whole thing look more layered.
 
 **Images:**
 
